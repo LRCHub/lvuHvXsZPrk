@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Rivers In the Desert",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-05T12:07:25.445615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Lollia",
+      "has_synced": false,
+      "path": "select/01_Rivers_in_the_Desert_Lollia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rivers In the Desert",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/02_Rivers_In_the_Desert_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rivers In the Desert",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/03_Rivers_In_the_Desert_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Lollia",
+      "has_synced": true,
+      "path": "select/04_Rivers_in_the_Desert_Lollia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rivers In the Desert",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/05_Rivers_In_the_Desert_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rivers In the Desert",
+      "artist": "LYn",
+      "has_synced": true,
+      "path": "select/06_Rivers_In_the_Desert_LYn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/07_Rivers_in_the_Desert_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "ATLUS",
+      "has_synced": true,
+      "path": "select/08_Rivers_in_the_Desert_ATLUS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Lollia & Sleeping Forest",
+      "has_synced": true,
+      "path": "select/09_Rivers_in_the_Desert_Lollia_&_Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Sapphire",
+      "has_synced": true,
+      "path": "select/10_Rivers_in_the_Desert_Sapphire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rivers in the Desert (REMIX)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_Rivers_in_the_Desert_(REMIX)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rivers in the Desert",
+      "artist": "Tournament Arc",
+      "has_synced": true,
+      "path": "select/12_Rivers_in_the_Desert_Tournament_Arc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rivers In the Desert",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Rivers_In_the_Desert_Lyn.txt"
+    }
+  ]
+}
